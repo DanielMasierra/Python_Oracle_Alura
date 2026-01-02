@@ -1,3 +1,6 @@
+f = False
+v = True
+
 if not v:
   print('La condición es verdadera')
 else: 
